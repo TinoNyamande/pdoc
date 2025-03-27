@@ -116,7 +116,7 @@ const Home = () => {
       </button>
         </div>
 
-        <p className="text-gray-700 mb-4 text-center">5. testa kushanda kwe code nekushanisa 'tino &lt;file_name&gt;'' pa command prompt</p>
+        <p className="text-gray-700 mb-4 text-center">5. testa kushanda kwe code nekushanisa &apos;tino &lt;file_name&gt;&apos; pa command prompt</p>
 
 
       </div>
