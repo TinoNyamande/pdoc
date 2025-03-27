@@ -11,9 +11,9 @@ const Home = () => {
         <p className="text-lg text-gray-700 mb-6">
           Kuunza mukana kune wese munhu kuti adzidze programming mumutauro wemuno.
         </p>
-        <Link href="/installation">
+        <Link href="/ShonaLangInstaller.exe">
           <span className="bg-blue-600 text-white px-6 py-2 rounded-lg text-lg font-semibold cursor-pointer hover:bg-blue-700">
-            Tanga Pano
+            Download
           </span>
         </Link>
       </section>
