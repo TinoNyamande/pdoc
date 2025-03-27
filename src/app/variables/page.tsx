@@ -6,14 +6,14 @@ const Variables = () => {
       
       <h1 className="text-4xl font-bold mb-4">📌 Zita (Variable) muShona Programming Language</h1>
       <p className="text-lg text-gray-700">
-        Zita (variable) rinobatsira kuchengeta **data** yatingashandisa muchirongwa.
+        Zita (variable) rinobatsira kuchengeta data yatingashandisa muchirongwa.
       </p>
 
-      {/* Sei Tichishandisa Zita? */}
+    
       <section className="mt-6">
-        <h2 className="text-2xl font-semibold mb-3">🔍 Sei Tichishandisa Zita?</h2>
+        <h2 className="text-2xl font-semibold mb-3"> Sei Tichishandisa Zita?</h2>
         <ul className="list-disc list-inside text-gray-700">
-          <li>Kuchengetedza manhamba, mashoko, kana **data** yechirongwa.</li>
+          <li>Kuchengetedza manhamba, mashoko, kana datayechirongwa.</li>
           <li>Kuita kuti kodhi yedu inyore kunzwisisa uye kushanda nayo.</li>
           <li>Kuita kuti chirongwa chishande nemaitiro akasiyana pasina kushandura kodhi yese.</li>
         </ul>
@@ -25,7 +25,7 @@ const Variables = () => {
         <p className="text-gray-700">
           - Zita rinofanira kutanga nerugwaro (**A-Z, a-z**).  
           - Rinogona kuva nemanamba (**0-9**) uye underscore (**_**), asi risingatangi nenhamba.  
-          - **Hapana spaces kana mavara asiri emutauro** (e.g., `@, $, %` hazvitenderwe).  
+            
         </p>
       </section>
 
