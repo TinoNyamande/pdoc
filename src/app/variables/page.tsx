@@ -20,7 +20,7 @@ const Variables = () => {
       </section>
 
       {/* Mutemo Wekugadzira Zita */}
-      <section className="mt-6">
+      <section className="mt-5">
         <h2 className="text-2xl font-semibold mb-3">⚖️ Mutemo Wekugadzira Zita</h2>
         <p className="text-gray-700">
           - Zita rinofanira kutanga nerugwaro (**A-Z, a-z**).  
