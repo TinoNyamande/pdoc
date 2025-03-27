@@ -3,7 +3,7 @@ import Link from "next/link";
 const Variables = () => {
   return (
     <div className="p-8">
-      {/* Musoro (Header) */}
+      
       <h1 className="text-4xl font-bold mb-4">📌 Zita (Variable) muShona Programming Language</h1>
       <p className="text-lg text-gray-700">
         Zita (variable) rinobatsira kuchengeta **data** yatingashandisa muchirongwa.
